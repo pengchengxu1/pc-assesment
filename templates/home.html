@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>cycling</title>
+    <link href="/static/css/layui.css" rel="stylesheet">
+    <style>
+    body{padding: 6px 16px;}
+    .demo-carousel{height: 200px; line-height: 200px; text-align: center;}
+
+    </style>
+</head>
+<body>
+<div style="margin: 50px 10px 10px 10px" id="btn">
+    <div class="layui-form-item">
+        <div class="layui-inline">
+            <label class="layui-form-label">station name</label>
+            <div class="layui-input-inline">
+                <input class="layui-input" name="station_name" id="station_name">
+            </div>
+        </div>
+
+        <div class="layui-inline">
+            <button type="button" class="layui-btn layui-btn-primary" lay-filter="data-search-btn"><i
+                    class="layui-icon"></i> search
+            </button>
+        </div>
+    </div>
+</div>
+<table class="layui-hide" id="list_data"></table>
+
+
+<script type="text/javascript" src="/static/jquery-3.4.1.min.js"></script>
+
+<script src="/static/layui.js"></script>
+<script>
+layui.use(function(){
+
+  var layer = layui.layer;
+  var laypage = layui.laypage;
+  var laydate = layui.laydate;
+  var table = layui.table;
+  var carousel = layui.carousel;
+  var upload = layui.upload;
+  var element = layui.element;
+  var slider = layui.slider;
+  var dropdown = layui.dropdown;
+
+
+  table.render({
+    elem: '#list_data'
+    ,url: '/cycling/list'
+    ,title: 'cycling'
+    ,totalRow: true
+    ,cols: [[
+      ,{field: 'id', title: 'ID', width:92, sort: true, fixed: 'left'}
+      ,{field: 'from_station_name',width:200, title: 'from_station_name', sort: true}
+      ,{field: 'to_station_name', width:200,title: 'to_station_name', sort: true}
+      ,{field: 'start_time', width:200,title: 'start_time', sort: true}
+      ,{field: 'end_time', width:200,title: 'end_time', sort: true}
+      ,{field: 'duration',width:200, title: 'duration', sort: true}
+      ,{field: 'usertype', width:200,title: 'usertype', sort: true}
+      ,{field: 'gender',width:200, title: 'gender', sort: true}
+      ,{field: 'birthyear',width:200, title: 'birthyear', sort: true}
+    ]],
+    page: true,
+    limit: 10 ,
+    limits: [1,5,10,30,50],
+  });
+
+        	  $('#btn .layui-btn').on('click', function(){
+        	    var station_name = $('#station_name').val();
+        	      table.reload('list_data', {
+        	        page: {
+        	          curr: 1
+        	        }
+        	        ,where: {
+        	          station_name:  station_name
+        	        }
+        	      });
+        	  });
+
+            });
+
+
+</script>
+
+</body>
+</html>

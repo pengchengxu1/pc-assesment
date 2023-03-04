@@ -1,0 +1,596 @@
+data__stations__name,data__stations__lat,data__stations__lon,data__stations__station_id,data__stations__station_type
+Buckingham Fountain,41.87651123,-87.62054801,2,classic
+Shedd Aquarium,41.86722596,-87.61535539,3,classic
+Burnham Harbor,41.856268,-87.613348,4,classic
+State St & Harrison St,41.874053,-87.627716,5,classic
+Dusable Harbor,41.886976,-87.612813,6,classic
+Field Blvd & South Water St,41.88634906,-87.61751655,7,classic
+Leavitt St & Archer Ave,41.82879202,-87.68060446,9,classic
+Jeffery Blvd & 71st St,41.76663824,-87.57645011,11,classic
+South Shore Dr & 71st St,41.76640946,-87.56568757,12,classic
+Wilton Ave & Diversey Pkwy,41.932418,-87.652705,13,classic
+Morgan St & 18th St,41.858086,-87.651073,14,classic
+Racine Ave & 18th St,41.858166,-87.656495,15,classic
+Paulina Ave & North Ave,41.910337,-87.670072,16,classic
+Honore St & Division St,41.903119,-87.673935,17,classic
+Wacker Dr & Washington St,41.883132,-87.637321,18,classic
+Throop (Loomis) St & Taylor St,41.868968,-87.659141,19,classic
+Sheffield Ave & Kingsbury St,41.910522,-87.653106,20,classic
+Aberdeen St & Jackson Blvd,41.87772613,-87.65478743,21,classic
+May St & Taylor St,41.8694821,-87.6554864,22,classic
+Orleans St & Elm St,41.902924,-87.637715,23,classic
+Fairbanks Ct & Grand Ave,41.89184737,-87.6205802,24,classic
+Michigan Ave & Pearson St,41.89766,-87.62351,25,classic
+McClurg Ct & Illinois St,41.890359,-87.617532,26,classic
+Larrabee St & North Ave,41.91021,-87.6435,27,classic
+Larrabee St & Menomonee St,41.91468,-87.64332,28,classic
+Noble St & Milwaukee Ave,41.90068,-87.6626,29,classic
+Ashland Ave & Augusta Blvd,41.899643,-87.6677,30,classic
+Franklin St & Chicago Ave,41.89674697,-87.63566762,31,classic
+Racine Ave & Congress Pkwy,41.87464,-87.65703,32,classic
+State St & Van Buren St,41.877181,-87.627844,33,classic
+Cannon Dr & Fullerton Ave,41.92675599,-87.63442878,34,classic
+Streeter Dr & Grand Ave,41.892278,-87.612043,35,classic
+Franklin St & Jackson Blvd,41.87770796,-87.63532114,36,classic
+Dearborn St & Adams St,41.87935636,-87.62979104,37,classic
+Clark St & Lake St,41.88602083,-87.63087606,38,classic
+Wabash Ave & Adams St,41.87947235,-87.62568861,39,classic
+LaSalle St & Adams St,41.87934437,-87.63198522,40,classic
+Federal St & Polk St,41.87207763,-87.62954377,41,classic
+Wabash Ave & Cermak Rd,41.852619,-87.626488,42,classic
+Michigan Ave & Washington St,41.88398406,-87.62468398,43,classic
+State St & Randolph St,41.8847302,-87.62773357,44,classic
+Michigan Ave & Ida B Wells Dr,41.876243,-87.624426,45,classic
+Wells St & Walton St,41.89993001,-87.63443007,46,classic
+State St & Kinzie St,41.889187,-87.627754,47,classic
+Larrabee St & Kingsbury St,41.897764,-87.642884,48,classic
+Dearborn St & Monroe St,41.88131982,-87.62952092,49,classic
+Clark St & Ida B Wells Dr,41.87593267,-87.63058454,50,classic
+Clark St & Randolph St,41.88457623,-87.63188991,51,classic
+Michigan Ave & Lake St,41.886024,-87.624117,52,classic
+Wells St & Huron St,41.894722,-87.634362,53,classic
+Ogden Ave & Chicago Ave,41.89636246,-87.65406127,54,classic
+Halsted St & Roosevelt Rd,41.867324,-87.648625,55,classic
+Desplaines St & Kinzie St,41.88871604,-87.64444785,56,classic
+Clinton St & Roosevelt Rd,41.86711778,-87.64108796,57,classic
+Marshfield Ave & Cortland St,41.916017,-87.668879,58,classic
+Wabash Ave & Roosevelt Rd,41.867227,-87.625961,59,classic
+Dayton St & North Ave,41.91057803,-87.64942193,60,classic
+Wood St & Milwaukee Ave,41.907655,-87.672552,61,classic
+McCormick Place,41.85137517,-87.61883465,62,classic
+Clinton St & Lake St,41.885637,-87.641823,66,classic
+Sheffield Ave & Fullerton Ave,41.92560188,-87.65370804,67,classic
+Clinton St & Tilden St,41.875885,-87.640795,68,classic
+Damen Ave & Pierce Ave,41.90939601,-87.67769193,69,classic
+Morgan St & Lake St,41.88548331,-87.65230486,71,classic
+Wabash Ave & 16th St,41.860384,-87.625813,72,classic
+Jefferson St & Monroe St,41.880422,-87.642746,73,classic
+Kingsbury St & Erie St,41.89380806,-87.64169723,74,classic
+Canal St & Jackson Blvd,41.877245,-87.639366,75,classic
+Lake Shore Dr & Monroe St,41.880958,-87.616743,76,classic
+Clinton St & Madison St,41.882242,-87.641066,77,classic
+Aberdeen St & Monroe St,41.880419,-87.655519,80,classic
+Daley Center Plaza,41.884241,-87.629634,81,classic
+Milwaukee Ave & Grand Ave,41.891578,-87.648384,84,classic
+Michigan Ave & Oak St,41.90096039,-87.62377664,85,classic
+Eckhart Park,41.89637337,-87.66098386,86,classic
+Racine Ave & Fullerton Ave,41.92556258,-87.65840426,87,classic
+Racine Ave & Randolph St,41.884069,-87.656853,88,classic
+Financial Pl & Ida B Wells Dr,41.87502363,-87.63309404,89,classic
+Millennium Park,41.8810317,-87.62408432,90,classic
+Clinton St & Washington Blvd,41.88338,-87.64117,91,classic
+Carpenter St & Huron St,41.894556,-87.653449,92,classic
+Sheffield Ave & Willow St,41.913688,-87.652855,93,classic
+Clark St & Armitage Ave,41.918306,-87.636282,94,classic
+Stony Island Ave & 64th St,41.778881,-87.586647,95,classic
+Desplaines St & Randolph St,41.88461619,-87.64457058,96,classic
+Field Museum,41.865312,-87.617867,97,classic
+LaSalle St & Washington St,41.882664,-87.63253,98,classic
+Lake Shore Dr & Ohio St,41.89257,-87.614492,99,classic
+Orleans St & Merchandise Mart Plaza,41.888243,-87.63639,100,classic
+63rd St Beach,41.78101637,-87.57611976,101,classic
+Stony Island Ave & 67th St,41.7734585,-87.58533974,102,classic
+Clinton St & Polk St,41.87146652,-87.64094913,103,classic
+State St & Pearson St,41.897448,-87.628722,106,classic
+Desplaines St & Jackson Blvd,41.878287,-87.643909,107,classic
+Halsted St & Polk St,41.87184,-87.64664,108,classic
+900 W Harrison St,41.874754,-87.649807,109,classic
+Dearborn St & Erie St,41.893992,-87.629318,110,classic
+Sedgwick St & Huron St,41.894666,-87.638437,111,classic
+Green St & Randolph St,41.883668,-87.64867,112,classic
+Bissell St & Armitage Ave,41.91844,-87.65222,113,classic
+Sheffield Ave & Waveland Ave,41.949399,-87.654529,114,classic
+Sheffield Ave & Wellington Ave,41.936266,-87.652662,115,classic
+Western Ave & Winnebago Ave,41.91552,-87.687022,116,classic
+Wilton Ave & Belmont Ave,41.94018,-87.65304,117,classic
+Sedgwick St & North Ave,41.911386,-87.638677,118,classic
+Ashland Ave & Lake St,41.88592,-87.66717,119,classic
+Wentworth Ave & Cermak Rd (Temp),41.853005,-87.630578,120,classic
+Blackstone Ave & Hyde Park Blvd,41.802562,-87.590368,121,classic
+Ogden Ave & Congress Pkwy,41.87501,-87.67328,122,classic
+California Ave & Milwaukee Ave,41.922695,-87.697153,123,classic
+Damen Ave & Cullerton St,41.855048,-87.675726,124,classic
+Rush St & Hubbard St,41.890173,-87.626185,125,classic
+Clark St & North Ave,41.911974,-87.631942,126,classic
+Lincoln Ave & Fullerton Ave,41.925905,-87.64926,127,classic
+Damen Ave & Chicago Ave,41.895769,-87.67722,128,classic
+Blue Island Ave & 18th St,41.857556,-87.661535,129,classic
+Damen Ave & Division St,41.903266,-87.678435,130,classic
+Lincoln Ave & Belmont Ave,41.939365,-87.668385,131,classic
+Wentworth Ave & 24th St (Temp),41.85008369,-87.63214052,132,classic
+Kingsbury St & Kinzie St,41.88917683,-87.63850577,133,classic
+Peoria St & Jackson Blvd,41.8776416,-87.64961779,134,classic
+Halsted St & 21st St,41.85378,-87.64665,135,classic
+Racine Ave & 13th St,41.865054,-87.656959,136,classic
+Morgan Ave & 14th Pl,41.862378,-87.651062,137,classic
+Clybourn Ave & Division St,41.904613,-87.640552,138,classic
+Dearborn Pkwy & Delaware Pl,41.898969,-87.629912,140,classic
+Clark St & Lincoln Ave,41.915689,-87.6346,141,classic
+McClurg Ct & Erie St,41.894503,-87.617854,142,classic
+Sedgwick St & Webster Ave,41.922167,-87.638888,143,classic
+Larrabee St & Webster Ave,41.921822,-87.64414,144,classic
+Mies van der Rohe Way & Chestnut St,41.89858665,-87.62191523,145,classic
+Loomis St & Jackson Blvd,41.877945,-87.662007,146,classic
+Indiana Ave & 26th St,41.845687,-87.622481,147,classic
+State St & 33rd St,41.834734,-87.625813,148,classic
+Calumet Ave & 33rd St,41.8349,-87.61793,149,classic
+Fort Dearborn Dr & 31st St,41.838556,-87.608218,150,classic
+Lincoln Ave & Diversey Pkwy,41.932225,-87.658617,152,classic
+Southport Ave & Wellington Ave,41.935733,-87.663576,153,classic
+Southport Ave & Belmont Ave,41.93949,-87.66378,154,classic
+Clark St & Wellington Ave,41.93649682,-87.64753866,156,classic
+Lake Shore Dr & Wellington Ave,41.93668845,-87.63682902,157,classic
+Milwaukee Ave & Wabansia Ave,41.912616,-87.681391,158,classic
+Claremont Ave & Hirsch St,41.907781,-87.685854,159,classic
+Campbell Ave & North Ave,41.910535,-87.689556,160,classic
+Rush St & Superior St,41.89576475,-87.62590803,161,classic
+Damen Ave & Wellington Ave,41.93588,-87.67842,162,classic
+Damen Ave & Clybourn Ave,41.931931,-87.677856,163,classic
+Franklin St & Lake St,41.885837,-87.6355,164,classic
+Clark St & Grace St,41.95078,-87.659172,165,classic
+Ashland Ave & Wrightwood Ave,41.92883,-87.668507,166,classic
+Damen Ave & Coulter St,41.8492,-87.67564,167,classic
+Michigan Ave & 14th St,41.864059,-87.623727,168,classic
+Canal St & Harrison St,41.874255,-87.639573,169,classic
+Clinton St & 18th St,41.85795,-87.640826,170,classic
+May St & Cullerton St,41.855136,-87.654127,171,classic
+Rush St & Cedar St,41.9023087,-87.62769053,172,classic
+Mies van der Rohe Way & Chicago Ave,41.89691,-87.621743,173,classic
+Canal St & Madison St,41.882091,-87.639833,174,classic
+Wells St & Polk St,41.872596,-87.633502,175,classic
+Clark St & Elm St,41.902973,-87.63128,176,classic
+Theater on the Lake,41.926277,-87.630834,177,classic
+State St & 19th St,41.856594,-87.627542,178,classic
+MLK Jr Dr & Pershing Rd,41.8246,-87.61678,179,classic
+Ritchie Ct & Banks St,41.906866,-87.626217,180,classic
+LaSalle St & Illinois St,41.890762,-87.631697,181,classic
+Wells St & Elm St,41.903222,-87.634324,182,classic
+Damen Ave & Thomas St (Augusta Blvd),41.901315,-87.677409,183,classic
+State St & 35th St,41.8309,-87.62803,184,classic
+Stave St & Armitage Ave,41.917741,-87.691392,185,classic
+Ogden Ave & Race Ave,41.891795,-87.658751,186,classic
+Greenview Ave & Fullerton Ave,41.92533,-87.6658,188,classic
+Southport Ave & Wrightwood Ave,41.928773,-87.663913,190,classic
+Canal St & Monroe St,41.88169,-87.63953,191,classic
+Canal St & Adams St,41.879255,-87.639904,192,classic
+State St & 29th St,41.841707,-87.626938,193,classic
+Wabash Ave & Wacker Pl,41.886875,-87.62603,194,classic
+Columbus Dr & Randolph St,41.884728,-87.619521,195,classic
+Cityfront Plaza Dr & Pioneer Ct,41.890573,-87.622072,196,classic
+Michigan Ave & Madison St,41.882134,-87.625125,197,classic
+Green St & Madison St,41.881892,-87.648789,198,classic
+Wabash Ave & Grand Ave,41.891466,-87.626761,199,classic
+MLK Jr Dr & 47th St,41.809851,-87.616279,200,classic
+Indiana Ave & 40th St,41.82168,-87.6216,201,classic
+Halsted St & 18th St,41.857499,-87.646277,202,classic
+Western Ave & 21st St,41.854109,-87.685838,203,classic
+Prairie Ave & Garfield Blvd,41.794853,-87.618691,204,classic
+Paulina St & 18th St,41.857901,-87.668745,205,classic
+Halsted St & Archer Ave,41.847203,-87.646795,206,classic
+Emerald Ave & 28th St,41.84358,-87.645368,207,classic
+Laflin St & Cullerton St,41.85491458,-87.66355991,208,classic
+Normal Ave & Archer Ave,41.849527,-87.640591,209,classic
+Ashland Ave & Division St,41.90345,-87.667747,210,classic
+St. Clair St & Erie St,41.894448,-87.622663,211,classic
+Wells St & Hubbard St,41.889906,-87.634266,212,classic
+Leavitt St & North Ave,41.910153,-87.68229,213,classic
+Damen Ave & Grand Ave,41.89122,-87.67686,214,classic
+Damen Ave & Madison St,41.88137,-87.67493,215,classic
+California Ave & Division St,41.903029,-87.697474,216,classic
+Elizabeth (May) St & Fulton St,41.88661649,-87.65803993,217,classic
+Wells St & 19th St,41.856802,-87.633879,218,classic
+Damen Ave & Cortland St,41.915983,-87.677335,219,classic
+Clark St & Drummond Pl,41.931248,-87.644336,220,classic
+Milwaukee Ave & Rockwell St,41.920195,-87.693033,222,classic
+Clifton Ave & Armitage Ave,41.918216,-87.656936,223,classic
+Halsted St & Willow St,41.913865,-87.648755,224,classic
+Halsted St & Dickens Ave,41.919936,-87.64883,225,classic
+Racine Ave & Belmont Ave,41.939743,-87.658865,226,classic
+Southport Ave & Waveland Ave,41.94815,-87.66394,227,classic
+Damen Ave & Melrose Ave,41.9406,-87.6785,228,classic
+Southport Ave & Roscoe St,41.943739,-87.66402,229,classic
+Lincoln Ave & Roscoe St,41.94334,-87.67097,230,classic
+Sheridan Rd & Montrose Ave,41.96167,-87.65464,231,classic
+Pine Grove Ave & Waveland Ave,41.949275,-87.646303,232,classic
+Sangamon St & Washington Blvd,41.883165,-87.6511,233,classic
+Clark St & Montrose Ave,41.961588,-87.666036,234,classic
+Sedgwick St & Schiller St,41.907626,-87.638566,236,classic
+MLK Jr Dr & 29th St,41.842052,-87.617,237,classic
+Wolcott (Ravenswood) Ave & Montrose Ave,41.961406,-87.676169,238,classic
+Western Ave & Leland Ave,41.96649453,-87.68841863,239,classic
+Sheridan Rd & Irving Park Rd,41.954245,-87.654406,240,classic
+Morgan St & Polk St,41.871737,-87.65103,241,classic
+Damen Ave & Leland Ave,41.967094,-87.679028,242,classic
+Lincoln Ave & Sunnyside Ave,41.963004,-87.684781,243,classic
+Ravenswood Ave & Irving Park Rd,41.95469,-87.67393,244,classic
+Clarendon Ave & Junior Ter,41.961004,-87.649603,245,classic
+Ashland Ave & Belle Plaine Ave,41.956057,-87.668835,246,classic
+Shore Dr & 55th St,41.795212,-87.580715,247,classic
+Woodlawn Ave & 55th St,41.795264,-87.596471,248,classic
+Montrose Harbor,41.963982,-87.638181,249,classic
+Ashland Ave & Wellington Ave,41.936083,-87.669807,250,classic
+Clarendon Ave & Leland Ave,41.967968,-87.650001,251,classic
+Greenwood Ave & 47th St,41.809835,-87.599383,252,classic
+Winthrop Ave & Lawrence Ave,41.968812,-87.657659,253,classic
+Pine Grove Ave & Irving Park Rd,41.954383,-87.648043,254,classic
+Indiana Ave & Roosevelt Rd,41.867888,-87.623041,255,classic
+Broadway & Sheridan Rd,41.952833,-87.649993,256,classic
+Lincoln Ave & Waveland Ave,41.948797,-87.675278,257,classic
+Logan Blvd & Elston Ave,41.929465,-87.684158,258,classic
+California Ave & Francis Pl (Temp),41.91849115,-87.6974228,259,classic
+Kedzie Ave & Milwaukee Ave,41.929567,-87.707857,260,classic
+Hermitage Ave & Polk St,41.871514,-87.669886,261,classic
+Halsted St & 37th St,41.827059,-87.64572,262,classic
+Rhodes Ave & 32nd St,41.836208,-87.613533,263,classic
+Stetson Ave & South Water St,41.886835,-87.62232,264,classic
+Cottage Grove Ave & Oakwood Blvd,41.822985,-87.6071,265,classic
+Lake Park Ave & 47th St,41.809443,-87.591875,267,classic
+Lake Shore Dr & North Blvd,41.911722,-87.626804,268,classic
+Stony Island Ave & 75th St,41.75866967,-87.58688287,270,classic
+Cottage Grove Ave & 43rd St,41.816499,-87.606582,271,classic
+Indiana Ave & 31st St,41.838842,-87.621857,272,classic
+Michigan Ave & 18th St,41.857813,-87.62455,273,classic
+Racine Ave & 15th St,41.861267,-87.656625,274,classic
+Ashland Ave & 13th St,41.865234,-87.666507,275,classic
+California Ave & North Ave,41.91044,-87.6972,276,classic
+Ashland Ave & Grand Ave,41.891072,-87.666611,277,classic
+Wallace St & 35th St,41.830629,-87.64129,278,classic
+Halsted St & 35th St,41.830661,-87.647172,279,classic
+Morgan St & 31st St,41.8378,-87.65114,280,classic
+Western Ave & 24th St,41.84847,-87.685109,281,classic
+Halsted St & Maxwell St,41.864883,-87.647071,282,classic
+LaSalle St & Jackson Blvd,41.878166,-87.631929,283,classic
+Michigan Ave & Jackson Blvd,41.87785,-87.62408,284,classic
+Wood St & Hubbard St,41.889899,-87.671473,285,classic
+Franklin St & Adams St (Temp),41.87943409,-87.63550401,286,classic
+Franklin St & Monroe St,41.880317,-87.635185,287,classic
+Larrabee St & Armitage Ave,41.918084,-87.643749,288,classic
+Wells St & Concord Ln,41.912133,-87.634656,289,classic
+Kedzie Ave & Palmer Ct,41.921525,-87.707322,290,classic
+Wells St & Evergreen Ave,41.906724,-87.63483,291,classic
+Southport Ave & Clark St,41.957081,-87.664199,292,classic
+Broadway & Wilson Ave,41.965221,-87.658139,293,classic
+Broadway & Berwyn Ave,41.978353,-87.659753,294,classic
+Broadway & Argyle St,41.973815,-87.65966,295,classic
+Broadway & Belmont Ave,41.940106,-87.645451,296,classic
+Paulina St & Montrose Ave,41.961507,-87.671387,297,classic
+Lincoln Ave & Belle Plaine Ave,41.95602,-87.680293,298,classic
+Halsted St & Roscoe St,41.94367,-87.64895,299,classic
+Broadway & Barry Ave,41.937725,-87.644095,300,classic
+Clark St & Schiller St,41.907993,-87.631501,301,classic
+Sheffield Ave & Wrightwood Ave,41.928712,-87.653833,302,classic
+Broadway & Cornelia Ave,41.945529,-87.646439,303,classic
+Broadway & Waveland Ave,41.949074,-87.648636,304,classic
+Western Ave & Division St,41.902893,-87.687275,305,classic
+Sheridan Rd & Buena Ave,41.958494,-87.654966,306,classic
+Southport Ave & Clybourn Ave,41.920771,-87.663712,307,classic
+Seeley Ave & Roscoe St,41.943403,-87.679618,308,classic
+Leavitt St & Armitage Ave,41.917805,-87.682437,309,classic
+Damen Ave & Charleston St,41.920082,-87.677855,310,classic
+Leavitt St & Lawrence Ave,41.968885,-87.684001,311,classic
+Clarendon Ave & Gordon Ter,41.957879,-87.649519,312,classic
+Lakeview Ave & Fullerton Pkwy,41.925858,-87.638973,313,classic
+Ravenswood Ave & Berteau Ave,41.957921,-87.673567,314,classic
+Elston Ave & Wabansia Ave,41.912919,-87.664169,315,classic
+Damen Ave & Sunnyside Ave,41.96325,-87.679258,316,classic
+Wood St & Taylor St,41.869154,-87.671045,317,classic
+Southport Ave & Irving Park Rd,41.954177,-87.664358,318,classic
+Greenview Ave & Diversey Pkwy,41.93258963,-87.66593635,319,classic
+Loomis St & Lexington St,41.872187,-87.661501,320,classic
+Wabash Ave & 9th St,41.870769,-87.625734,321,classic
+Kimbark Ave & 53rd St,41.799568,-87.594747,322,classic
+Sheridan Rd & Lawrence Ave,41.969517,-87.654691,323,classic
+Stockton Dr & Wrightwood Ave,41.93132,-87.638742,324,classic
+Clark St & Winnemac Ave,41.97334,-87.66778,325,classic
+Clark St & Leland Ave,41.967096,-87.667429,326,classic
+Sheffield Ave & Webster Ave,41.92154,-87.653818,327,classic
+Ellis Ave & 58th St,41.788746,-87.601334,328,classic
+Lake Shore Dr & Diversey Pkwy,41.932588,-87.636427,329,classic
+Lincoln Ave & Addison St,41.946176,-87.673308,330,classic
+Halsted St & Clybourn Ave,41.909668,-87.648128,331,classic
+Burling St (Halsted) & Diversey Pkwy (Temp),41.93314,-87.64776,332,classic
+Ashland Ave & Blackhawk St,41.907066,-87.667252,333,classic
+Lake Shore Dr & Belmont Ave,41.940775,-87.639192,334,classic
+Calumet Ave & 35th St,41.831379,-87.618034,335,classic
+Cottage Grove Ave & 47th St,41.809855,-87.606755,336,classic
+Clark St & Chicago Ave,41.89675,-87.63089,337,classic
+Calumet Ave & 18th St,41.857611,-87.619407,338,classic
+Emerald Ave & 31st St,41.838198,-87.645143,339,classic
+Clark St & Wrightwood Ave,41.929546,-87.643118,340,classic
+Adler Planetarium,41.866095,-87.607267,341,classic
+Wolcott Ave & Polk St,41.871262,-87.673688,342,classic
+Racine Ave & Wrightwood Ave,41.928887,-87.658971,343,classic
+Ravenswood Ave & Lawrence Ave,41.96909,-87.674237,344,classic
+Lake Park Ave & 56th St,41.793242,-87.587782,345,classic
+Ada St & Washington Blvd,41.88283,-87.661206,346,classic
+Ashland Ave & Grace St,41.950687,-87.6687,347,classic
+California Ave & 21st St,41.85380407,-87.6957424,348,classic
+Halsted St & Wrightwood Ave,41.929143,-87.649077,349,classic
+Ashland Ave & Chicago Ave,41.895966,-87.667747,350,classic
+Cottage Grove Ave & 51st St,41.803038,-87.606615,351,classic
+Jeffery Blvd & 67th St,41.77351755,-87.57714283,352,classic
+Clark St & Touhy Ave,42.01256012,-87.67436712,353,classic
+Sheridan Rd & Greenleaf Ave,42.01058656,-87.66241209,354,classic
+South Shore Dr & 67th St,41.773643,-87.567514,355,classic
+Stony Island Ave & 71st St,41.76649294,-87.58646088,356,classic
+Larrabee St & Division St,41.90348607,-87.64335349,359,classic
+Larrabee St & Oak St,41.90021949,-87.64298547,364,classic
+Halsted St & North Branch St,41.89936844,-87.64847988,365,classic
+Loomis St & Archer Ave,41.84163254,-87.65743495,366,classic
+Racine Ave & 35th St,41.83069611,-87.65597591,367,classic
+Ashland Ave & Archer Ave,41.83920868,-87.66560986,368,classic
+Wood St & 35th St,41.83010465,-87.67029831,369,classic
+Calumet Ave & 21st St,41.85418425,-87.61915374,370,classic
+Kedzie Ave & Chicago Ave,41.8954653,-87.70612788,373,classic
+Western Ave & Walton St,41.89841769,-87.68659602,374,classic
+Sacramento Blvd & Franklin Blvd,41.89046879,-87.70260751,375,classic
+Artesian Ave & Hubbard St,41.88949182,-87.68821936,376,classic
+Kedzie Ave & Lake St,41.88460329,-87.70630374,377,classic
+California Ave & Lake St,41.88445396,-87.69629814,378,classic
+Western Ave & Monroe St,41.87978771,-87.68611281,381,classic
+Western Ave & Congress Pkwy,41.87474885,-87.68644528,382,classic
+Paulina St & Flournoy St,41.87295,-87.66913,383,classic
+Halsted St & 51st St,41.80183164,-87.6452139,384,classic
+Princeton Ave & Garfield Blvd,41.794982,-87.633124,385,classic
+Halsted St & 56th St,41.79292965,-87.64499006,386,classic
+Halsted St & 63rd St,41.77938114,-87.64462081,388,classic
+Wentworth Ave & 63rd St,41.78007963,-87.62974631,390,classic
+Halsted St & 69th St,41.76906172,-87.64461358,391,classic
+Perry Ave & 69th St,41.76929309,-87.62819593,392,classic
+Calumet Ave & 71st St,41.76550801,-87.61691793,393,classic
+Clark St & 9th St (AMLI),41.870816,-87.631246,394,classic
+Jeffery Blvd & 76th St,41.75712007,-87.57583936,395,classic
+Yates Blvd & 75th St,41.758768,-87.56644,396,classic
+Rainbow Beach,41.75787145,-87.54938625,398,classic
+South Shore Dr & 74th St,41.76218896,-87.55927465,399,classic
+Cottage Grove Ave & 71st St,41.76571904,-87.60495971,400,classic
+Shields Ave & 28th Pl,41.842733,-87.635491,401,classic
+Shields Ave & 31st St,41.838464,-87.635406,402,classic
+Wentworth Ave & 33rd St,41.83452989,-87.63182298,403,classic
+Wentworth Ave & 35th St,41.830777,-87.632504,405,classic
+Lake Park Ave & 35th St,41.83127424,-87.60879919,406,classic
+State St & Pershing Rd,41.82301524,-87.62656802,407,classic
+Union Ave & Root St,41.819102,-87.643278,408,classic
+Shields Ave & 43rd St,41.81620768,-87.63481935,409,classic
+Prairie Ave & 43rd St,41.81665889,-87.61941246,410,classic
+Halsted St & 47th Pl,41.80813391,-87.64561655,411,classic
+Princeton Ave & 47th St,41.80931771,-87.63344929,412,classic
+Woodlawn Ave & Lake Park Ave,41.81409271,-87.59700515,413,classic
+Canal St & Taylor St,41.870257,-87.639474,414,classic
+Calumet Ave & 51st St,41.80229465,-87.61805358,415,classic
+Dorchester Ave & 49th St,41.805772,-87.592464,416,classic
+Cornell Ave & Hyde Park Blvd,41.802406,-87.586924,417,classic
+Ellis Ave & 53rd St,41.79933626,-87.60095811,418,classic
+Lake Park Ave & 53rd St,41.79949429,-87.5864499,419,classic
+Ellis Ave & 55th St,41.79430062,-87.60144977,420,classic
+MLK Jr Dr & 56th St,41.79342946,-87.61585326,421,classic
+DuSable Museum,41.79156801,-87.60785218,422,classic
+University Ave & 57th St,41.791478,-87.599861,423,classic
+Museum of Science and Industry,41.79172821,-87.58394501,424,classic
+Harper Ave & 59th St,41.78794281,-87.58831517,425,classic
+Ellis Ave & 60th St,41.78509715,-87.60107276,426,classic
+Cottage Grove Ave & 63rd St,41.78059901,-87.60611239,427,classic
+Dorchester Ave & 63rd St,41.78040565,-87.59141599,428,classic
+Cottage Grove Ave & 67th St,41.77372095,-87.60563486,429,classic
+MLK Jr Dr & 63rd St,41.78008064,-87.61594286,430,classic
+Eberhart Ave & 61st St,41.78414169,-87.61330783,431,classic
+Clark St & Lunt Ave,42.009074,-87.67419,432,classic
+Kedzie Ave & Harrison St,41.87359967,-87.70487075,433,classic
+Ogden Ave & Roosevelt Rd,41.86650148,-87.68469707,434,classic
+Kedzie Ave & Roosevelt Rd,41.86649278,-87.70649618,435,classic
+Fairfield Ave & Roosevelt Rd,41.866624,-87.694521,436,classic
+Washtenaw Ave & Ogden Ave,41.86193049,-87.69345045,437,classic
+Central Park Ave & Ogden Ave,41.85420431,-87.71540584,438,classic
+Kedzie Ave & 21st St,41.85353363,-87.70507303,439,classic
+Central Park Ave & 24th St,41.8481,-87.715068,440,classic
+Kedzie Ave & 24th St,41.84819094,-87.70541375,441,classic
+California Ave & 23rd Pl,41.84910969,-87.69513981,442,classic
+Millard Ave & 26th St,41.84456685,-87.71591031,443,classic
+Albany Ave & 26th St,41.84447501,-87.70201301,444,classic
+California Ave & 26th St,41.84404003,-87.69529592,445,classic
+Western Ave & 28th St,41.84151771,-87.68513144,446,classic
+Glenwood Ave & Morse Ave,42.00797192,-87.66550239,447,classic
+Warren Park East,42.00454962,-87.68066615,448,classic
+Clark St & Columbia Ave,42.00445063,-87.6724024,449,classic
+Warren Park West,42.001785,-87.688829,450,classic
+Sheridan Rd & Loyola Ave,42.00104378,-87.66119824,451,classic
+Western Ave & Granville Ave,41.99416137,-87.68943828,452,classic
+Clark St & Schreiber Ave,41.99925182,-87.67137734,453,classic
+Broadway & Granville Ave,41.99477969,-87.66028453,454,classic
+Maplewood Ave & Peterson Ave,41.99023603,-87.69336964,455,classic
+2112 W Peterson Ave,41.991178,-87.683593,456,classic
+Clark St & Elmdale Ave,41.99051756,-87.6698336,457,classic
+Broadway & Thorndale Ave,41.98974251,-87.66014062,458,classic
+Lakefront Trail & Bryn Mawr Ave,41.9840367,-87.65231047,459,classic
+Clark St & Bryn Mawr Ave,41.983593,-87.669154,460,classic
+Broadway & Ridge Ave,41.98404461,-87.66027383,461,classic
+Winchester (Ravenswood) Ave & Balmoral Ave,41.979762,-87.67753,462,classic
+Clark St & Berwyn Ave,41.97799665,-87.6680471,463,classic
+Damen Ave & Foster Ave,41.9756148,-87.67945904,464,classic
+Marine Dr & Ainslie St,41.9716,-87.650154,465,classic
+Ridge Blvd & Touhy Ave,42.01213228,-87.68291264,466,classic
+Western Ave & Lunt Ave,42.0085944,-87.69049224,467,classic
+Budlong Woods Library,41.98366471,-87.69642256,468,classic
+St. Louis Ave & Balmoral Ave,41.98039423,-87.71611496,469,classic
+Kedzie Ave & Foster Ave,41.975672,-87.709261,470,classic
+Francisco Ave & Foster Ave,41.97563273,-87.70141944,471,classic
+Lincoln Ave & Winona St,41.9749113,-87.69250256,472,classic
+Christiana Ave & Lawrence Ave,41.96835449,-87.71183067,474,classic
+Washtenaw Ave & Lawrence Ave,41.968987,-87.696027,475,classic
+Kedzie Ave & Leland Ave,41.96668636,-87.70805198,476,classic
+Manor Ave & Leland Ave,41.965875,-87.700825,477,classic
+Rockwell St & Eastwood Ave,41.96590014,-87.69363849,478,classic
+Drake Ave & Montrose Ave,41.96115408,-87.71656907,479,classic
+Albany Ave & Montrose Ave,41.961041,-87.705866,480,classic
+California Ave & Montrose Ave,41.961068,-87.695439,481,classic
+Campbell Ave & Montrose Ave,41.96152593,-87.69116504,482,classic
+Avondale Ave & Irving Park Rd,41.953393,-87.732002,483,classic
+Monticello Ave & Irving Park Rd,41.95400484,-87.71912818,484,classic
+Sawyer Ave & Irving Park Rd,41.95358618,-87.7093108,485,classic
+Oakley Ave & Irving Park Rd,41.95434085,-87.68607962,486,classic
+California Ave & Byron St,41.95216219,-87.69805111,487,classic
+Pulaski Rd & Eddy St (Temp),41.946264,-87.731023,488,classic
+Drake Ave & Addison St,41.947326,-87.717582,489,classic
+Troy St & Elston Ave,41.94524357,-87.7066499,490,classic
+Talman Ave & Addison St,41.94663583,-87.69461476,491,classic
+Leavitt St & Addison St,41.946655,-87.683359,492,classic
+Western Ave & Roscoe St,41.943034,-87.687288,493,classic
+Kedzie Ave & Bryn Mawr Ave,41.98239708,-87.70892252,494,classic
+Keystone Ave & Montrose Ave,41.96110802,-87.7289701,495,classic
+Avers Ave & Belmont Ave,41.939408,-87.723574,496,classic
+Kimball Ave & Belmont Ave,41.939398,-87.711561,497,classic
+California Ave & Fletcher St,41.93842879,-87.69800776,498,classic
+Kosciuszko Park,41.93058537,-87.72377736,499,classic
+Central Park Ave & Elbridge Ave,41.93533728,-87.71688929,500,classic
+Richmond St & Diversey Ave,41.93190197,-87.70119513,501,classic
+California Ave & Altgeld St,41.92669,-87.697668,502,classic
+Drake Ave & Fullerton Ave,41.92439882,-87.71544104,503,classic
+Campbell Ave & Fullerton Ave,41.92463247,-87.68930701,504,classic
+Winchester Ave & Elston Ave,41.92409085,-87.67646007,505,classic
+Spaulding Ave & Armitage Ave,41.91710803,-87.71022096,506,classic
+Humboldt Blvd & Armitage Ave,41.91751339,-87.70180896,507,classic
+Central Park Ave & North Ave,41.90965688,-87.71663195,508,classic
+Troy St & North Ave,41.9097693,-87.70528049,509,classic
+Spaulding Ave & Division St,41.90270659,-87.70921957,510,classic
+Albany Ave & Bloomingdale Ave,41.91402671,-87.70512646,511,classic
+Ridge Blvd & Howard St,42.019276,-87.68452,514,classic
+Paulina St & Howard St,42.019159,-87.673573,515,classic
+Clark St & Jarvis Ave,42.015963,-87.675005,517,classic
+Conservatory Dr & Lake St,41.885502,-87.716866,518,classic
+Wolcott Ave & Fargo Ave,42.016977,-87.677725,519,classic
+Greenview Ave & Jarvis Ave,42.015962,-87.66857,520,classic
+Bosworth Ave & Howard St,42.019537,-87.669563,522,classic
+Eastlake Ter & Rogers Ave,42.02088728,-87.66505793,523,classic
+Austin Blvd & Chicago Ave,41.894887,-87.774704,524,classic
+Glenwood Ave & Touhy Ave,42.012701,-87.666058,525,classic
+Oakley Ave & Touhy Ave,42.012342,-87.688243,526,classic
+Western Ave & Howard St,42.018901,-87.690048,527,classic
+Pulaski Rd & Lake St,41.885409,-87.726491,528,classic
+Cicero Ave & Lake St,41.886841,-87.745261,529,classic
+Laramie Ave & Kinzie St,41.887832,-87.755527,530,classic
+Central Ave & Lake St,41.887664,-87.765469,531,classic
+Austin Blvd & Lake St,41.887919,-87.774446,532,classic
+Central Park Blvd & 5th Ave,41.875679,-87.71547,533,classic
+Karlov Ave & Madison St,41.88085,-87.727907,534,classic
+Pulaski Rd & Congress Pkwy,41.874325,-87.725704,535,classic
+Kostner Ave & Lake St,41.885928,-87.73541,536,classic
+Kenton Ave & Madison St,41.880708,-87.741018,537,classic
+Cicero Ave & Flournoy St,41.872131,-87.746619,538,classic
+Cicero Ave & Quincy St,41.877613,-87.745405,539,classic
+Laramie Ave & Madison St,41.880207,-87.755337,540,classic
+Central Ave & Harrison St,41.872993,-87.764499,541,classic
+Central Ave & Madison St,41.880121,-87.763238,542,classic
+Laramie Ave & Gladys Ave,41.875806,-87.755285,543,classic
+Austin Blvd & Madison St,41.880281,-87.774453,544,classic
+Kostner Ave & Adams St,41.877917,-87.735737,545,classic
+Damen Ave & Pershing Rd,41.823192,-87.676597,546,classic
+Ashland Ave & Pershing Rd,41.823465,-87.665577,547,classic
+Morgan St & Pershing Rd,41.823613,-87.650931,548,classic
+Marshfield Ave & 44th St,41.813996,-87.666589,549,classic
+Central Ave & Chicago Ave,41.894958,-87.764902,550,classic
+Hoyne Ave & 47th St,41.808227,-87.67718,551,classic
+Ashland Ave & McDowell Ave,41.80887,-87.66454,552,classic
+Elizabeth St & 47th St,41.80839,-87.656526,553,classic
+Damen Ave & 51st St,41.800908,-87.674684,554,classic
+Ashland Ave & 50th St,41.803023,-87.664699,555,classic
+Throop St & 52nd St,41.799659,-87.657195,556,classic
+Seeley Ave & Garfield Blvd,41.794087,-87.675478,557,classic
+Ashland Ave & Garfield Blvd,41.792822,-87.664429,558,classic
+Racine Ave & Garfield Blvd,41.794228,-87.655073,559,classic
+Marshfield Ave & 59th St,41.786833,-87.666215,560,classic
+Damen Ave & 59th St,41.78602,-87.674167,561,classic
+Racine Ave & 61st St,41.783189,-87.654372,562,classic
+Ashland Ave & 63rd St,41.779374,-87.664843,563,classic
+Racine Ave & 65th St,41.775393,-87.654308,564,classic
+Ashland Ave & 66th St,41.774074,-87.663815,565,classic
+Ashland Ave & 69th St,41.768726,-87.664069,566,classic
+May St & 69th St,41.768938,-87.652934,567,classic
+Vincennes Ave & 75th St,41.75797,-87.63121,568,classic
+Woodlawn Ave & 75th St,41.75916,-87.595751,569,classic
+Evans Ave & 75th St,41.75849,-87.60641,570,classic
+Vernon Ave & 75th St,41.758361,-87.614138,571,classic
+State St & 76th St,41.756971,-87.624621,572,classic
+State St & 79th St,41.750794,-87.624424,573,classic
+Vernon Ave & 79th St,41.75094,-87.61379,574,classic
+Cottage Grove Ave & 78th St,41.753174,-87.605026,575,classic
+Greenwood Ave & 79th St,41.751294,-87.597552,576,classic
+Stony Island Ave & South Chicago Ave,41.751173,-87.585337,577,classic
+Bennett Ave & 79th St,41.751785,-87.578496,578,classic
+Phillips Ave & 79th St,41.75182,-87.565211,579,classic
+Exchange Ave & 79th St,41.751731,-87.552812,580,classic
+Commercial Ave & 83rd St,41.744615,-87.551208,581,classic
+Phillips Ave & 83rd St,41.744531,-87.56506,582,classic
+Stony Island Ave & 82nd St,41.746559,-87.586005,583,classic
+Ellis Ave & 83rd St,41.744123,-87.599034,584,classic
+Cottage Grove Ave & 83rd St,41.743441,-87.604836,585,classic
+MLK Jr Dr & 83rd St,41.743116,-87.6148,586,classic
+Wabash Ave & 83rd St,41.743316,-87.622849,587,classic
+South Chicago Ave & 83rd St,41.743921,-87.575225,588,classic
+Milwaukee Ave & Cuyler Ave,41.954468,-87.749594,589,classic
+Kilbourn Ave & Irving Park Rd,41.953733,-87.740569,590,classic
+Kilbourn Ave & Milwaukee Ave,41.948818,-87.74002,591,classic
+Knox Ave & Montrose Ave,41.960631,-87.745359,592,classic
+Halsted St & 59th St,41.787539,-87.644874,593,classic
+Western Blvd & 48th Pl,41.805661,-87.683392,594,classic
+Wabash Ave & 87th St,41.736646,-87.622634,595,classic
+Benson Ave & Church St,42.048214,-87.683485,596,classic
+Chicago Ave & Washington St,42.032562,-87.679101,597,classic
+Elmwood Ave & Austin St,42.025784,-87.684107,598,classic
+Valli Produce - Evanston Plaza,42.039742,-87.699413,599,classic
+Dodge Ave & Church St,42.048308,-87.698224,600,classic
+Central St Metra,42.063598,-87.69873,601,classic
+Central St & Girard Ave,42.064313,-87.686152,602,classic
+Chicago Ave & Sheridan Rd,42.050491,-87.677821,603,classic
+Sheridan Rd & Noyes St (NU),42.058239,-87.677432,604,classic
+University Library (NU),42.052939,-87.673447,605,classic
+Keystone Ave & Fullerton Ave,41.92459,-87.72785,619,classic
+Orleans St & Chestnut St (NEXT Apts),41.898203,-87.637536,620,classic
+Aberdeen St & Randolph St,41.884114,-87.654264,621,classic
+California Ave & Cortez St,41.900363,-87.696704,622,classic
+Michigan Ave & 8th St,41.872773,-87.623981,623,classic
+Dearborn St & Van Buren St,41.876268,-87.629155,624,classic
+Chicago Ave & Dempster St,42.041691,-87.680687,625,classic
+Delano Ct & Roosevelt Rd,41.867491,-87.63219,626,classic
+LaSalle Dr & Huron St,41.894877,-87.632326,627,classic
+Walsh Park,41.91461,-87.667968,628,classic
+Kildare Ave & Montrose Ave,41.96108,-87.73569,630,classic
+Malcolm X College,41.877618,-87.673895,631,classic
+Fairbanks St & Superior St,41.895748,-87.620104,635,classic
+Orleans St & Hubbard St,41.890028,-87.636618,636,classic
+Clinton St & Jackson Blvd,41.87811603,-87.63983846,638,classic
+Lakefront Trail & Wilson Ave,41.965845,-87.645361,639,classic
+Latrobe Ave & Chicago Ave,41.894745,-87.756895,642,classic
+Archer (Damen) Ave & 37th St,41.826712,-87.683144,645,classic
+Elizabeth St & 59th St,41.786691,-87.655859,647,classic
+Rhodes Ave & 71st St,41.766,-87.611726,652,classic
+Cornell Dr & Hayes Dr,41.780595,-87.584846,653,classic
+Wood St & Augusta Blvd,41.899181,-87.6722,657,classic
+Leavitt St & Chicago Ave,41.895501,-87.682017,659,classic
+Sheridan Rd & Columbia Ave,42.004583,-87.661406,660,classic
+Evanston Civic Center,42.057044,-87.686554,661,classic
+Dodge Ave & Mulford St,42.023463,-87.699595,662,classic
+Lincolnwood Dr & Central St,42.064854,-87.715297,663,classic
+South Chicago Ave & Elliot Ave,41.747363,-87.580046,665,classic
+Cherry Ave & Blackhawk St,41.907221,-87.655618,666,classic
+Franklin St & Illinois St,41.89102331,-87.63547987,672,classic
+Lincoln Park Conservatory,41.92393131,-87.63582453,673,classic
